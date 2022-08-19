@@ -1,6 +1,6 @@
 ## Hey there! :wave:
 
-<img align="right" alt="Assume this is a monkey with a laptop." src="https://giphy.com/embed/ule4vhcY1xEKQ" />
+<img align="right" src="https://giphy.com/embed/ule4vhcY1xEKQ" />
 
 ### I'm Dhruv, 2B Computer Engineering student at UWaterloo
 
