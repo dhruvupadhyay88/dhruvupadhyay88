@@ -1,9 +1,8 @@
 ## Hey there! :wave:
 
+<img height="400px" width="400px" align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
+
 ### I'm Dhruv, 2B Computer Engineering student at UWaterloo
-
-
-<img align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
 
 - Currently a Backend Engineer Intern @ Faire
 - Previously a Frontend Engineer Intern @ Faire
