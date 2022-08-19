@@ -1,6 +1,6 @@
 ## Hey there! :wave:
 
-<img height="400px" width="400px" align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
+<img height="200px" width="200px" align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
 
 ### I'm Dhruv, 2B Computer Engineering student at UWaterloo
 
