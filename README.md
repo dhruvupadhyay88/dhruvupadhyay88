@@ -3,7 +3,7 @@
 ### I'm Dhruv, 2B Computer Engineering student at UWaterloo
 
 
-<img align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/cat.gif" />
+<img align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
 
 - Currently a Backend Engineer Intern @ Faire
 - Previously a Frontend Engineer Intern @ Faire
