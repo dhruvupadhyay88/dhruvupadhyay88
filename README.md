@@ -4,7 +4,7 @@
 
 ### I'm Dhruv, 3A Computer Engineering student at UWaterloo
 
-- Currently seeking Summer 2023 opportunities - feel free to reach out :)
+- Currently seeking 2024 opportunities - feel free to reach out :)
 
 💻 Previous Roles
 - Software Engineer Intern @ [Intuit](https://www.intuit.com/ca/) - Summer 2023
