@@ -4,7 +4,7 @@
 
 ### I'm Dhruv, 4A Computer Engineering student at UWaterloo
 
-- Software Engineer Intern @ Databricks - Winter 2024
+- Software Engineer Intern @ [Databricks](https://www.databricks.com) - Winter 2024
 - Seeking Summer/Fall 2024 Internship Opportunities - Feel free to reach out :)
 
 💻 Previous Roles
