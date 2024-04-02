@@ -2,7 +2,7 @@
 
 <img height="320px" width="320px" align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
 
-### I'm Dhruv, 3A Computer Engineering student at UWaterloo
+### I'm Dhruv, 4A Computer Engineering student at UWaterloo
 
 - Software Engineer Intern @ Databricks - Winter 2024
 - Seeking Summer/Fall 2024 Internship Opportunities - Feel free to reach out :)
