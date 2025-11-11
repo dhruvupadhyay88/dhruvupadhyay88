@@ -11,8 +11,9 @@
 - Software Engineer Intern @ [Databricks](https://www.databricks.com) - Winter 2024
 - Software Engineer Intern @ [Intuit](https://www.intuit.com/ca/) - Summer 2023
 - Software Engineer Intern @ [Faire](https://www.faire.com/) - 2022
-- 
+ 
 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/dhruv-u
 - Email: d2upadhy@uwaterloo.ca
+
 
