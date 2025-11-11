@@ -2,17 +2,17 @@
 
 <img height="320px" width="320px" align="right" src="https://raw.githubusercontent.com/dhruvupadhyay88/dhruvupadhyay88/main/cat.gif" />
 
-### I'm Dhruv, 4A Computer Engineering student at UWaterloo
+### I'm Dhruv
 
-- Software Engineer Intern @ [Bitgo](https://Bitgo.com) - Fall 2024
-- Seeking Winter 2025 Internship Opportunities - Feel free to reach out :)
+- Software Engineer  @ [Databricks](https://www.databricks.com)
 
 💻 Previous Roles
+- Software Engineer Intern @ [Bitgo](https://Bitgo.com) - Fall 2024
 - Software Engineer Intern @ [Databricks](https://www.databricks.com) - Winter 2024
 - Software Engineer Intern @ [Intuit](https://www.intuit.com/ca/) - Summer 2023
-- Back-end Engineer Intern @ [Faire](https://www.faire.com/) - Fall 2022
-- Front-end Engineer Intern @ [Faire](https://www.faire.com/) - Winter 2022
-  
+- Software Engineer Intern @ [Faire](https://www.faire.com/) - 2022
+- 
 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/dhruv-u
 - Email: d2upadhy@uwaterloo.ca
+
